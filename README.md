@@ -1,3 +1,4 @@
 # Bash-Scripting
 
-This is a repo created to learn all the basics related to bash scripting.:
+This is a repo created to learn all the basics related to bash scripting.
+Basic to Advanced Shell Scripting;
